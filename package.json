@@ -2,7 +2,7 @@
   "name": "playcanvas",
   "version": "0.216.5",
   "description": "PlayCanvas engine accessible via npm.",
-  "main": "index.js",
+  "main": "dist/playcanvas-stable.min.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
